@@ -2,17 +2,6 @@
 
 using namespace std;
 
-/*
-int main(int argc,char *argv[])
-{
-    float fat = 0,weight,high;
-    weight = atof(argv[1]);
-    high =  atof(argv[2]);
-    fat = weight / high / high;
-    cout << "体脂比为： " << fat <<endl;
-    return 0;
-}
-*/
 
 int main()
 {
